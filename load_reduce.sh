@@ -1,4 +1,6 @@
 #! /bin/bash
+# ID: 16160703
+# Name Lorcan Willamson
 
 ps aux --sort -%cpu | tail -n +2 > info
 echo "There are $(wc -l info) proccesses running "

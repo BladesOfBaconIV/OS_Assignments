@@ -1,4 +1,6 @@
 #! /bin/bash
+# ID: 16160703
+# Name Lorcan Willamson
 
 # Current user/machine info
 echo "Current user is $USER (ID: $UID)"

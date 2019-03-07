@@ -1,4 +1,6 @@
 #! /bin/bash
+# ID: 16160703
+# Lorcan Williamson
 
 # File info part
 ls -l --sort=size ~ > tempfile
